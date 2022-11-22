@@ -1,1 +1,5 @@
 # Project-4
+
+Many risk factors have been determined by scientists and doctors to contribute to the hospitalization or death of COVID-19 patients. Through the use of the dataset at the following link, we aim to apply machine learning to visualize and understand these risk factors. 
+https://www.kaggle.com/datasets/meirnizri/covid19-dataset
+We plan to initially clean up the data in a Jupyter notebook using Pandas. From here, we will train various machine learning models and evaluate them for their accuracy. We will utilize a Pipeline model to find the best parameters to utilize through the machine learning process, both supervised and unsupervised. We are planning to utilize both MatPlotLib and Tableau to incorporate visualizations into our final product, to show how risk factors can affect the outcome for an individual with COVID-19. The purpose of this analysis is to determine an individual’s likelihood of encountering complications from COVID-19. This can allow for one’s doctor to potentially implement a stronger medical treatment to help avoid hospitalization or even death.
