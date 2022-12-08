@@ -7,3 +7,6 @@ Using the above plan, we developed various models.
 The random forest classifier model resulted in a final accuracy of about 90.5%. The neural network models predicting death and hospitalization had final accuracies of 93.3% and 90.4% respectively.
 
 Through the use of our various models, we aimed for a prediction rate of 95% or greater, as to make the models viable for use in a medical setting. Although attempts were made to fine tune our models to reach this goal, we saw minimal improvement using a Keras tuner. Moving forward, further optimization of the models would require greater resources in computing power, more time, and further refinement of our parameters.
+
+Presentation slides are at the following link:
+https://docs.google.com/presentation/d/1EEMhu0w81GvSfh10us4O6zTPdSsDq2_V6J-48po3IAI/edit?usp=sharing 
