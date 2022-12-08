@@ -10,3 +10,6 @@ Through the use of our various models, we aimed for a prediction rate of 95% or 
 
 Presentation slides are at the following link:
 https://docs.google.com/presentation/d/1EEMhu0w81GvSfh10us4O6zTPdSsDq2_V6J-48po3IAI/edit?usp=sharing 
+
+Tableau Visualizations: 
+https://public.tableau.com/app/profile/ethan.price/viz/FinalProjectViz_16698686417330/CovidStory 
